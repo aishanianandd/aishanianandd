@@ -1,6 +1,6 @@
-# hii, i'm aishani! :)
+# hii, i'm aishani!! ･ᴗ･
 
-i'm a computational cognitive science student @ uc davis interested in **AI, software development, and human-centered technology.**
+i'm a computational cognitive science student @ uc davis interested in **AI, software development, and human-centered technology. ✨ **
 
 └─ currently building projects and exploring the intersection of **technology + people** 🧠💻
 
